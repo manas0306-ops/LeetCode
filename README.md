@@ -10,6 +10,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manas0306-ops/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manas0306-ops/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -18,12 +19,14 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | [0213-house-robber-ii](https://github.com/manas0306-ops/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/manas0306-ops/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/manas0306-ops/Leetcode/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manas0306-ops/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manas0306-ops/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manas0306-ops/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
@@ -88,4 +91,8 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manas0306-ops/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
