@@ -6,6 +6,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manas0306-ops/LeetCode/tree/master/0001-two-sum) |
 | [0213-house-robber-ii](https://github.com/manas0306-ops/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -82,6 +83,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manas0306-ops/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 ## Memoization
 |  |
