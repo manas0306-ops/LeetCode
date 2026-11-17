@@ -7,6 +7,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas0306-ops/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/manas0306-ops/LeetCode/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/manas0306-ops/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -104,4 +105,8 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/manas0306-ops/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manas0306-ops/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
