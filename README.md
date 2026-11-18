@@ -11,6 +11,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | [0137-single-number-ii](https://github.com/manas0306-ops/LeetCode/tree/master/0137-single-number-ii) |
 | [0213-house-robber-ii](https://github.com/manas0306-ops/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/manas0306-ops/LeetCode/tree/master/0260-single-number-iii) |
 | [0746-min-cost-climbing-stairs](https://github.com/manas0306-ops/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -111,4 +112,5 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | ------- |
 | [0136-single-number](https://github.com/manas0306-ops/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manas0306-ops/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/manas0306-ops/LeetCode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
