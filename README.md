@@ -122,4 +122,5 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/manas0306-ops/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/manas0306-ops/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
