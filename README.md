@@ -86,6 +86,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/manas0306-ops/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
 | ------- |
