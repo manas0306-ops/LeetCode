@@ -29,6 +29,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/manas0306-ops/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/manas0306-ops/Leetcode/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manas0306-ops/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -70,6 +71,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/manas0306-ops/LeetCode/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas0306-ops/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/manas0306-ops/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/manas0306-ops/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Memoization
@@ -124,4 +127,8 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | ------- |
 | [0997-find-the-town-judge](https://github.com/manas0306-ops/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/manas0306-ops/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/manas0306-ops/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
