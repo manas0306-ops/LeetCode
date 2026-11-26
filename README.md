@@ -87,6 +87,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manas0306-ops/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/manas0306-ops/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
@@ -97,6 +98,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas0306-ops/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manas0306-ops/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/manas0306-ops/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/manas0306-ops/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -131,4 +133,8 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manas0306-ops/LeetCode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manas0306-ops/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
