@@ -34,6 +34,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | [0507-perfect-number](https://github.com/manas0306-ops/Leetcode/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manas0306-ops/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/manas0306-ops/LeetCode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manas0306-ops/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manas0306-ops/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
@@ -94,6 +95,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/manas0306-ops/Leetcode/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/manas0306-ops/LeetCode/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
