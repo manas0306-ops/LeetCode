@@ -16,6 +16,7 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | [0997-find-the-town-judge](https://github.com/manas0306-ops/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manas0306-ops/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/manas0306-ops/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/manas0306-ops/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manas0306-ops/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manas0306-ops/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -79,10 +80,12 @@ This is not Me. It's My Consistency That has a colour GREEN.
 | ------- |
 | [0217-contains-duplicate](https://github.com/manas0306-ops/Leetcode/tree/master/0217-contains-duplicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manas0306-ops/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/manas0306-ops/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/manas0306-ops/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manas0306-ops/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/manas0306-ops/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manas0306-ops/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
@@ -139,4 +142,8 @@ This is not Me. It's My Consistency That has a colour GREEN.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manas0306-ops/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manas0306-ops/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
